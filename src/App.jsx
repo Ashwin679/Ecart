@@ -1,11 +1,11 @@
 
 import { Route, Routes } from 'react-router-dom'
 import './App.css'
-import Wishlist from './Pages/Wishlist'
-import Footer from './Components/Footer'
-import Home from './Pages/Home'
 import Cart from './pages/Cart'
 import Header from './components/Header'
+import Wishlist from './pages/Wishlist'
+import Home from './pages/Home'
+import Footer from './components/Footer'
 
 
 function App() {
